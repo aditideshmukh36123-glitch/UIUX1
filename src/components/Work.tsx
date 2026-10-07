@@ -20,7 +20,7 @@ export const POSTER_PROJECTS: PosterProject[] = [
     number: '01',
     category: 'POSTER DESIGN',
     title: 'Poster Design 01',
-    filename: 'Poster-01.png',
+    filename: 'poster-01.png',
     alt: 'Poster Design 01 by Annie',
   },
   {
@@ -28,7 +28,7 @@ export const POSTER_PROJECTS: PosterProject[] = [
     number: '02',
     category: 'SOCIAL MEDIA DESIGN',
     title: 'Social Media Design 02',
-    filename: 'Poster-02.png',
+    filename: 'poster-02.png',
     alt: 'Social Media Design 02 by Annie',
   },
   {
@@ -36,7 +36,7 @@ export const POSTER_PROJECTS: PosterProject[] = [
     number: '03',
     category: 'BRAND IDENTITY',
     title: 'Brand Identity 03',
-    filename: 'Poster-03.png',
+    filename: 'poster-03.png',
     alt: 'Brand Identity 03 by Annie',
   },
   {
@@ -44,7 +44,7 @@ export const POSTER_PROJECTS: PosterProject[] = [
     number: '04',
     category: 'CREATIVE CAMPAIGN',
     title: 'Creative Campaign 04',
-    filename: 'Poster-04.png',
+    filename: 'poster-04.png',
     alt: 'Creative Campaign 04 by Annie',
   },
   {
@@ -52,7 +52,7 @@ export const POSTER_PROJECTS: PosterProject[] = [
     number: '05',
     category: 'EDITORIAL DESIGN',
     title: 'Editorial Design 05',
-    filename: 'Poster-05.png',
+    filename: 'poster-05.png',
     alt: 'Editorial Design 05 by Annie',
   },
 ];
